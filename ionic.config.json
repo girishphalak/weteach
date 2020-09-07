@@ -1,0 +1,7 @@
+{
+  "name": "weteach",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
